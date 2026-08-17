@@ -2,7 +2,7 @@
 
 A comprehensive collection of hands-on networking labs covering CCNA topics, organized by difficulty level and subject matter.
 
-## 📋 Repository Structure
+##  Repository Structure
 
 ```
 networking-practicals/
@@ -16,7 +16,7 @@ networking-practicals/
 └── README.md                     # This file
 ```
 
-## 🎯 Lab Categories
+##  Lab Categories
 
 ### 01-Basics
 **Difficulty:** Beginner  
@@ -31,7 +31,7 @@ Foundational concepts including:
 **Labs:**
 - `01-device-connectivity.pkt` - Basic device connection and connectivity
 - `02-basic-ios-configuration.pkt` - Switch and router basic configuration
-
+- etc.
 ---
 
 ### 02-VLAN-Configuration
@@ -49,7 +49,7 @@ Virtual LAN implementation and management:
 - `02-static-trunking.pkt` - Configuring 802.1Q static trunking
 - `03-dynamic-vlan-implementation.pkt` - Dynamic VLAN implementation
 - `04-vlans-and-trunking.pkt` - Comprehensive VLAN and trunking scenario
-
+- etc.
 ---
 
 ### 03-Routing
@@ -67,7 +67,7 @@ Routing protocol configuration and troubleshooting:
 - `02-router-on-stick.pkt` - Single physical interface routing multiple VLANs
 - `03-eigrp-routing.pkt` - EIGRP dynamic routing configuration
 - `04-dhcp-configuration.pkt` - DHCP server configuration and DHCP relay
-
+- etc.
 ---
 
 ### 04-Wireless
@@ -87,7 +87,7 @@ Wireless networking concepts and implementation:
 - `03-wireless-to-wired-connectivity.pkt` - Seamless wired-wireless network
 - `04-secure-wireless-network.pkt` - WPA2 and authentication configuration
 - `05-wireless-network-advanced.pkt` - Advanced wireless topology
-
+- etc.
 ---
 
 ### 05-Advanced
@@ -108,7 +108,7 @@ Real-world complex scenarios and emerging technologies:
 
 ---
 
-## 📚 How to Use This Repository
+##  How to Use This Repository
 
 ### Getting Started
 1. **Start with Basics:** Begin with the 01-Basics folder to understand fundamental concepts
@@ -140,7 +140,7 @@ Real-world complex scenarios and emerging technologies:
 - **Test Connectivity:** Use ping, tracert, show commands to verify
 - **Review Errors:** Read error messages carefully for clues
 
-## 🛠️ Common Commands Reference
+##  Common Commands Reference
 
 See `reference/` folder for:
 - `CISCO-IOS-COMMANDS.md` - Common IOS commands by category
@@ -148,7 +148,7 @@ See `reference/` folder for:
 - `ROUTING-COMMANDS.md` - Routing protocol commands
 - `WIRELESS-COMMANDS.md` - Wireless configuration commands
 
-## 📖 Documentation
+##  Documentation
 
 In the `docs/` folder:
 - `GETTING-STARTED.md` - Quick start guide
@@ -157,7 +157,7 @@ In the `docs/` folder:
 - `ROUTING-GUIDE.md` - Routing concepts and protocols
 - `TROUBLESHOOTING.md` - Common issues and solutions
 
-## 🎓 Learning Objectives Summary
+##  Learning Objectives Summary
 
 | Category | Key Skills |
 |----------|-----------|
@@ -167,7 +167,7 @@ In the `docs/` folder:
 | Wireless | Wireless AP setup, security, client connectivity |
 | Advanced | Complex topologies, IoT, SOHO networks, real-world scenarios |
 
-## 💡 Tips for Success
+##  Tips for Success
 
 1. **Understand Before Configuring** - Read the topology and understand the requirements
 2. **Use Simulation Mode** - Debug step-by-step to see packet flow
@@ -176,10 +176,11 @@ In the `docs/` folder:
 5. **Create Variations** - Modify labs to test different configurations
 6. **Document Everything** - Keep notes on what you learned
 
-## 🔄 File Naming Convention
+##  File Naming Convention
 
 ```
-[NUMBER]-[TOPIC]-[SPECIFIC-FOCUS].pkt
+[NUMBER]-[TOPIC]-[SPECIFIC-FOCUS].pkt is the easiest and more effective way 
+to organize your work for quick reference
 
 Examples:
 01-device-connectivity.pkt
@@ -189,7 +190,7 @@ Examples:
 01-wireless-access-point-basic.pkt
 ```
 
-## 📝 Prerequisites by Category
+##   Prerequisites by Category
 
 ```
 01-Basics
@@ -212,14 +213,7 @@ Examples:
   └─ 04-Wireless (at least 1 lab)
 ```
 
-## 🚀 Next Steps
 
-1. Start with `01-Basics/README.md`
-2. Open your first lab: `01-basics/01-device-connectivity.pkt`
-3. Follow the lab README for detailed instructions
-4. Progress through labs sequentially
-
----
 
 **Last Updated:** August 2026  
 **Cisco Packet Tracer Version:** 8.2.2+  

@@ -4,11 +4,11 @@
 **Estimated Time per Lab:** 60-90 minutes  
 **Prerequisites:** Complete 01-Basics (all labs)
 
-## 📖 Overview
+##  Overview
 
 This section focuses on Virtual LAN (VLAN) concepts and configuration. You'll learn to create multiple VLANs, assign ports, configure trunking protocols, and manage VLAN traffic using 802.1Q tagging.
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 After completing this section, you will be able to:
 
@@ -21,7 +21,7 @@ After completing this section, you will be able to:
 - [ ] Troubleshoot VLAN connectivity issues
 - [ ] Configure VLANs across multiple switches
 
-## 📋 Labs in This Section
+##  Labs in This Section
 
 ### Lab 1: Static VLAN Creation
 **File:** `01-static-vlan-creation.pkt`  
@@ -255,7 +255,7 @@ See individual lab README for detailed topology and steps.
 
 ---
 
-## 🔧 Skills to Practice
+##  Skills to Practice
 
 - Creating and managing VLANs
 - Understanding VLAN numbering schemes (10, 20, 30, etc.)
@@ -266,7 +266,7 @@ See individual lab README for detailed topology and steps.
 - Native VLAN configuration
 - VLAN verification and troubleshooting
 
-## 📚 Key Commands Reference
+##  Key Commands Reference
 
 ```
 vlan <number>                      # Create VLAN
@@ -284,7 +284,7 @@ show trunk                         # View trunk information
 show interfaces trunk              # Detailed trunk info
 ```
 
-## 🔍 VLAN ID Allocation Reference
+##  VLAN ID Allocation Reference
 
 ```
 VLAN 1:     Reserved (Default/Native) - Never assign to user traffic
@@ -303,7 +303,7 @@ VLAN 50: Management
 VLAN 99: Native/Administrative (on trunks)
 ```
 
-## 🚀 Next Steps
+##  Next Steps
 
 Once you've completed all labs in this section:
 1. Combine multiple switches into complex topologies

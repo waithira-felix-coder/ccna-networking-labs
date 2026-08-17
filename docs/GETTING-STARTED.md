@@ -2,7 +2,7 @@
 
 Welcome to your Cisco Packet Tracer Networking Practicals Repository! This guide will help you get started with the labs.
 
-## 📦 What's Included
+##  What's Included
 
 - **5 Learning Tracks** organized by difficulty and topic
 - **20+ Hands-on Labs** with detailed instructions
@@ -10,7 +10,7 @@ Welcome to your Cisco Packet Tracer Networking Practicals Repository! This guide
 - **Troubleshooting Guides** for common issues
 - **Complete Documentation** for each lab
 
-## 🚀 Quick Start (5 minutes)
+##  Quick Start (5 minutes)
 
 ### Step 1: Choose Your Starting Point
 
@@ -39,11 +39,8 @@ Each folder has a detailed `README.md` with:
 - Verification commands
 - Troubleshooting tips
 
-### Step 4: Follow the Configuration
 
-Open a text editor alongside Packet Tracer and copy/paste commands from the README as you work through the lab.
-
-## 📚 Learning Path Recommendations
+##  Learning Path Recommendations
 
 ### Path 1: CCNA Preparation (Complete)
 ```
@@ -75,7 +72,7 @@ Open a text editor alongside Packet Tracer and copy/paste commands from the READ
 ```
 **Time:** 4-6 hours, comprehensive practical
 
-## 💻 Working with Packet Tracer
+##  Working with Packet Tracer
 
 ### Opening a Lab
 
@@ -106,7 +103,7 @@ From a PC:
   > tracert <destination-IP>
 ```
 
-## 🔧 Essential Packet Tracer Features
+##  Essential Packet Tracer Features
 
 ### Simulation Mode
 - Left toolbar → "Simulation" button
@@ -129,7 +126,7 @@ File → Save / Save As
 Always save after successful configuration!
 ```
 
-## 📋 Lab Structure Template
+##  Lab Structure Template
 
 Every lab includes:
 
@@ -147,7 +144,7 @@ Every lab includes:
 └─ Challenges (ways to extend the lab)
 ```
 
-## 🎯 How to Use the Labs Effectively
+##  How to Use the Labs Effectively
 
 ### Before Starting
 - [ ] Read the entire lab README
@@ -174,7 +171,7 @@ Every lab includes:
 - [ ] Modify the network and test
 - [ ] Move to next lab
 
-## 🔍 Command Quick Reference
+##  Command Quick Reference
 
 ### Most Used Commands
 
@@ -193,7 +190,7 @@ show trunk                         # View trunk info
 
 **Full reference:** See `reference/CISCO-IOS-COMMANDS.md`
 
-## ⚠️ Common Beginner Mistakes
+##  Common Beginner Mistakes
 
 ### Mistake 1: Forgetting `no shutdown`
 ```
@@ -225,7 +222,7 @@ show trunk                         # View trunk info
 ✓ Take time to understand each configuration
 ```
 
-## 📈 Progress Tracking
+##  Progress Tracking
 
 ### Track Your Progress
 
@@ -240,7 +237,7 @@ Aug 20  02-VLAN-L2      ⏳ In-Progress  Trunking is complex
 
 Create a file like this to track your progress!
 
-## 🆘 Getting Help
+##  Getting Help
 
 ### If You Get Stuck
 
@@ -264,7 +261,7 @@ show trunk                      # Is trunk working?
 show running-config             # Compare to instructions
 ```
 
-## 📚 Next Steps After Labs
+##  Next Steps After Labs
 
 ### After Completing All Basic Labs
 
@@ -281,7 +278,7 @@ show running-config             # Compare to instructions
 - Explore advanced networking topics
 - Learn configuration management tools
 
-## 🎓 Learning Tips
+##  Learning Tips
 
 ### Tips for Success
 
@@ -305,7 +302,7 @@ show running-config             # Compare to instructions
    - Re-read key concepts weekly
    - Review completed labs before moving on
 
-## 📖 Documentation Files
+##  Documentation Files
 
 ### In This Repository
 
@@ -327,7 +324,7 @@ reference/
 └── README.md (detailed lab instructions)
 ```
 
-## 🏆 Goals to Achieve
+##  Goals to Achieve
 
 ### After 01-Basics
 ```
@@ -369,7 +366,7 @@ reference/
 ✓ Ready for CCNA exam
 ```
 
-## 🎯 Final Advice
+##  Final Advice
 
 > **"Networking is a hands-on skill. You can't learn it just by reading. You must practice."**
 
@@ -381,16 +378,6 @@ reference/
 
 ---
 
-## ✅ Checklist to Start
-
-- [ ] Read this guide completely
-- [ ] Understand repository structure
-- [ ] Opened Cisco Packet Tracer
-- [ ] Located first lab file
-- [ ] Read that lab's README
-- [ ] Ready to start configuration!
-
----
 
 **Ready to start? Open your first lab and have fun! 🚀**
 

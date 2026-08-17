@@ -4,11 +4,11 @@
 **Estimated Time per Lab:** 30-45 minutes  
 **Prerequisites:** None
 
-## 📖 Overview
+##  Overview
 
 This section covers fundamental networking concepts and basic device configuration. You'll learn how to set up network devices, establish basic connectivity, and perform essential configuration tasks.
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 After completing this section, you will be able to:
 
@@ -21,7 +21,7 @@ After completing this section, you will be able to:
 - [ ] Practice proper naming and documentation
 - [ ] Use basic Packet Tracer simulation features
 
-## 📋 Labs in This Section
+##  Labs in This Section
 
 ### Lab 1: Device Connectivity
 **File:** `01-device-connectivity.pkt`  
@@ -193,7 +193,7 @@ Once you complete the basic configuration:
 
 ---
 
-## 🔧 Skills to Practice
+##  Skills to Practice
 
 - Device naming conventions
 - Password security best practices
@@ -202,14 +202,14 @@ Once you complete the basic configuration:
 - Basic CLI navigation and syntax
 - Device backup and recovery
 
-## 📚 Recommended Reading
+##  Recommended Reading
 
 - Cisco IOS Command Hierarchy
 - Switch vs Router differences
 - IP Addressing fundamentals
 - Network cable types and standards
 
-## 🚀 Next Steps
+##  Next Steps
 
 Once you've completed all labs in this section:
 1. Redo the labs without referencing instructions

@@ -4,11 +4,11 @@
 **Estimated Time per Lab:** 90-120 minutes  
 **Prerequisites:** Complete 01-Basics and 02-VLAN-Configuration (all labs)
 
-## 📖 Overview
+##  Overview
 
 This section covers routing concepts, inter-VLAN routing, static routing, and dynamic routing protocols (EIGRP). You'll learn how to enable communication between different networks and VLANs.
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 After completing this section, you will be able to:
 
@@ -21,7 +21,7 @@ After completing this section, you will be able to:
 - [ ] View and interpret routing tables
 - [ ] Troubleshoot routing issues using trace and debug commands
 
-## 📋 Labs in This Section
+##  Labs in This Section
 
 ### Lab 1: Inter-VLAN Routing
 **File:** `01-inter-vlan-routing.pkt`  
@@ -335,7 +335,7 @@ Configure a router as a DHCP server and use DHCP relay agents for distributed DH
 
 ---
 
-## 🔧 Skills to Practice
+##  Skills to Practice
 
 - Understanding routing fundamentals
 - Configuring static routes
@@ -345,7 +345,7 @@ Configure a router as a DHCP server and use DHCP relay agents for distributed DH
 - Network design with multiple VLANs and routers
 - DHCP concepts and configuration
 
-## 📚 Key Routing Commands Reference
+##  Key Routing Commands Reference
 
 ### General Routing Commands
 ```
@@ -375,7 +375,7 @@ encapsulation dot1Q <VLAN>        # Enable 802.1Q tagging
 ip address <IP> <mask>            # Assign IP to subinterface
 ```
 
-## 🔍 Routing Concepts Summary
+##  Routing Concepts Summary
 
 | Concept | Description |
 |---------|-------------|
@@ -387,7 +387,7 @@ ip address <IP> <mask>            # Assign IP to subinterface
 | Route Advertisement | Sending routing updates to neighbors |
 | Route Convergence | Time for all routers to have consistent view of network |
 
-## 🚀 Next Steps
+##  Next Steps
 
 Once you've completed all labs in this section:
 1. Create multi-router, multi-VLAN topologies

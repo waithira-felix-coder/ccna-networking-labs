@@ -4,11 +4,11 @@
 **Estimated Time per Lab:** 120+ minutes  
 **Prerequisites:** Complete 01-Basics, 02-VLAN-Configuration, 03-Routing, 04-Wireless (highly recommended)
 
-## 📖 Overview
+##  Overview
 
 This section covers real-world complex scenarios including SOHO networks, smart home automation, IoT device integration, and advanced network designs that combine multiple technologies learned in previous sections.
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 After completing this section, you will be able to:
 
@@ -21,7 +21,7 @@ After completing this section, you will be able to:
 - [ ] Apply best practices for network design
 - [ ] Document complex network topologies
 
-## 📋 Labs in This Section
+##  Labs in This Section
 
 ### Lab 1: SOHO Network Implementation
 **File:** `01-soho-network.pkt`  
@@ -294,7 +294,7 @@ Advanced Internet of Things network with sensor nodes, actuators, gateways, and 
 
 ---
 
-## 🔧 Advanced Topics & Skills
+##  Advanced Topics & Skills
 
 ### Network Design Best Practices
 - **Scalability:** Design for future growth
@@ -327,7 +327,7 @@ Advanced Internet of Things network with sensor nodes, actuators, gateways, and 
 - Cloud integration
 - Data privacy and security
 
-## 📚 Reference Materials for Advanced Topics
+##  Reference Materials for Advanced Topics
 
 ### NAT (Network Address Translation)
 ```
@@ -359,7 +359,7 @@ access-list <number> permit|deny <protocol> <source> <destination>
 ip access-list standard <name>
 ```
 
-## 🎓 Lessons from Advanced Scenarios
+##  Lessons from Advanced Scenarios
 
 ### Complexity Management
 - Break topology into logical segments
@@ -383,7 +383,7 @@ ip access-list standard <name>
 - Security policies
 - Change log
 
-## 🚀 Next Steps
+##  Next Steps
 
 After completing these advanced labs:
 

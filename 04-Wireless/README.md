@@ -4,11 +4,11 @@
 **Estimated Time per Lab:** 45-75 minutes  
 **Prerequisites:** Complete 01-Basics (highly recommended: 02-VLAN-Configuration)
 
-## 📖 Overview
+##  Overview
 
 This section covers wireless networking concepts, access point configuration, security settings, and integration of wireless networks with wired infrastructure.
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 After completing this section, you will be able to:
 
@@ -22,7 +22,7 @@ After completing this section, you will be able to:
 - [ ] Understand wireless standards and channels
 - [ ] Configure wireless routers with integrated switching
 
-## 📋 Labs in This Section
+##  Labs in This Section
 
 ### Lab 1: Wireless Access Point - Basic
 **File:** `01-wireless-access-point-basic.pkt`  
@@ -273,7 +273,7 @@ Complex wireless scenario with multiple APs, roaming, and integration with enter
 
 ---
 
-## 🔧 Skills to Practice
+##  Skills to Practice
 
 - Access point configuration
 - SSID creation and management
@@ -285,7 +285,7 @@ Complex wireless scenario with multiple APs, roaming, and integration with enter
 - DHCP for wireless clients
 - Wireless monitoring and diagnostics
 
-## 📚 Wireless Command Reference
+##  Wireless Command Reference
 
 ### Access Point Configuration
 ```
@@ -311,7 +311,7 @@ wpa-psk ascii 0 <password>      # WPA2 Pre-Shared Key
 authentication key-management wpa  # Enable WPA
 ```
 
-## 🔍 Wireless Standards Comparison
+##  Wireless Standards Comparison
 
 | Standard | Frequency | Speed | Range | Notes |
 |----------|-----------|-------|-------|-------|
@@ -322,7 +322,7 @@ authentication key-management wpa  # Enable WPA
 | 802.11ac | 5 GHz     | 1.3 Gbps | 100m | Wide channels |
 | 802.11ax | 2.4/5 GHz | 9.6 Gbps | 100m | WiFi 6, OFDMA |
 
-## 🔍 Wireless Channels
+##  Wireless Channels
 
 **2.4 GHz Band (3 non-overlapping):**
 - Channels 1, 6, 11 (North America)
@@ -331,7 +331,7 @@ authentication key-management wpa  # Enable WPA
 **5 GHz Band:**
 - 36-48, 52-144, 149-165 (many non-overlapping channels)
 
-## ⚠️ Common Wireless Issues & Solutions
+##  Common Wireless Issues & Solutions
 
 | Issue | Cause | Solution |
 |-------|-------|----------|
@@ -342,7 +342,7 @@ authentication key-management wpa  # Enable WPA
 | Intermittent drops | Adjacent AP interference | Use non-overlapping channels |
 | Can't get IP address | DHCP not configured | Verify DHCP pool on gateway |
 
-## 🚀 Next Steps
+##  Next Steps
 
 Once you've completed all labs in this section:
 1. Add roaming between multiple APs
@@ -350,7 +350,7 @@ Once you've completed all labs in this section:
 3. Configure wireless VLANs for guest networks
 4. Move on to **05-Advanced** for real-world scenarios
 
-## ✅ Completion Checklist
+##  Completion Checklist
 
 - [ ] Configured basic wireless access point
 - [ ] Set SSID and radio channel
